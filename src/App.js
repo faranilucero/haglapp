@@ -13,7 +13,7 @@ function App() {
 	const sessionDiv = document.getElementById("sessionLabel");
 	const sessionInput = document.getElementById("session-input");
 
-	const appName = "haggleCalc";
+	const appName = "haggleApp";
 	const initVals = {
 		price: 10000,
 		rate: 2.5,
